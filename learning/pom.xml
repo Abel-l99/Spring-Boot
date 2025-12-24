@@ -8,8 +8,8 @@
 		<version>3.5.9</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.springboot</groupId>
-	<artifactId>learning</artifactId>
+	<groupId>com.ayawo</groupId>
+	<artifactId>library</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>learning</name>
 	<description>Demo project for Spring Boot</description>
