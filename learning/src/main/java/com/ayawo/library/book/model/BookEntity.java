@@ -1,10 +1,11 @@
 package com.ayawo.library.book.model;
 
 import jakarta.persistence.*;
-import lombok.AllArgsConstructor;
-import lombok.Builder;
-import lombok.NoArgsConstructor;
+import lombok.*;
+import org.springframework.stereotype.Service;
 
+@Getter
+@Setter
 @AllArgsConstructor
 @NoArgsConstructor
 @Builder
